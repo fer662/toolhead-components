@@ -16,5 +16,7 @@ This repository will collect:
 | Component | File | Calculated mass | Contents | Provenance |
 | --- | --- | --- | --- | --- |
 | MGN12H linear-rail carriage | [MGN12H.f3d](MGN12H.f3d) | 49.518 g | Assigned materials, 60 bearing balls, calculated COM point, orange reference marker | [MGN12H – Full detail](https://grabcad.com/library/mgn12h-full-detail-1) by Steven de Roos; adapted for Fusion with materials and COM reference. |
+| CHUBE Air / Conduction | [CHUBE_INTEGRATION_REVA.step](CHUBE_INTEGRATION_REVA.step) | — | Combined integration reference, including supplied COM references | [CHUBE / Luke's Laboratory](https://www.chubehotends.com/integrations); original manufacturer STEP, unchanged. |
+| CHUBE Compact | [Chube_Compact_integration_assembly.step](Chube_Compact_integration_assembly.step) | — | Integration assembly | [CHUBE / Luke's Laboratory](https://www.chubehotends.com/integrations); original manufacturer STEP, unchanged. |
 
 Download the `.f3d` file and open it in Autodesk Fusion. Select the root component and open **Properties** to inspect its combined mass. The archive is standalone; it does not require the original toolhead assembly.
